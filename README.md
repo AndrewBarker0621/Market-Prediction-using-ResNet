@@ -17,6 +17,6 @@ But unfortunately there was a "Black Swan" incidents halfway through the tournam
 
 To build this network stucture, moslty we have to import several toolkits or package. All of them are showm in the notebook file.
 
-Overall code was written in Python by Google Colab Pro, which has several paid GPUs and privilage CPU for training.
+Overall code was written in Python using Google Colab Pro which has several paid GPUs and privilage CPU for training.
 
 Any extra information for these codes can contact me by email: <xmrhzeng2000@gmail.com>
