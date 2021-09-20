@@ -21,4 +21,6 @@ To build this network stucture, moslty we have to import several toolkits or pac
 
 Overall code was written in Python using Google Colab Pro which has several paid GPUs and privilage CPU for training.
 
+The Main_ResNet file contains two frameworks which are the sophiticated strcture built by **PyTorch** and a simpleNN using **TensorFlow** while both two models show strong predictive power for this training set
+
 Any extra information for these codes can contact me by email: <xmrhzeng2000@gmail.com>
