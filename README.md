@@ -1,6 +1,7 @@
 # Market-Prediction-using-ResNet
 **This is a code description of Kaggle Competiton "Jane Street"**
-#### This project code and ideas are original development, but also follow the Apache Open Source License. Feel free to share correctly.
+
+***The project CODE and ideas are original development, but also follow the Apache Open Source License. Feel free to share correctly.***
 
 You can find the introduction and data desciption of the competition through the URL below.
 
